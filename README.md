@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Caleb Theil
 **🚀 Full-Stack Engineer | UX/UI Designer | Problem Solver**<br/>
-I'm a versatile freelance full-stack engineer with 4 years of experience. My approach is deeply rooted in user-centric design, thanks to my background in UX/UI design, which I integrate into every project.
+I'm a versatile freelance full-stack engineer with 4 years of experience and a degree in digital design. My approach is deeply rooted in user-centric design, thanks to my background in UX/UI design, which I integrate into every project.
 
 ## 🔧 Technologies I Like:
   
