@@ -25,6 +25,7 @@ I'm a self-taught problem solver who began this journey by **spotting inefficien
 ### [Echo](https://github.com/ctheil/echo)
 Developed an AI interaction platform using React, TypeScript, and Tailwind, leveraging the OpenAI API. Hosted on an EC2 instance with Nginx and Certbot for SSL, Echo improves AI user interactions and provides tools for effective prompt engineering.
 
-### [Tinder-like App for Movies/TV Shows](https://github.com/ctheil/pmdb-api)
-#### More coming soon! Checkout the [React Front End](https://github.com/ctheil/pmdb-client) or the [Go Back End](https://github.com/ctheil/pmdb-api)
+### [PMDB](https://github.com/ctheil/pmdb-api)
+#### Tinder-like App for Movies/TV Shows
+**More coming soon!** Checkout the [React Front End](https://github.com/ctheil/pmdb-client) or the [Go Back End](https://github.com/ctheil/pmdb-api)<br/>
 A social app designed to help users find what to watch next, built with Golang, Postgres, Redis, and React. The application will support solo and multi-user sessions with features like custom watchlists, streaming service integration, and real-time socket-based API and client communication.
