@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Caleb Theil
+# If “Good Enough” Doesn’t Cut It for You, You’re in the Right Place.
 **🚀 Full-Stack Engineer | UX/UI Designer | Problem Solver**<br/>
-I'm a versatile freelance full-stack engineer with 4 years of experience and a degree in digital design. My approach is deeply rooted in user-centric design, thanks to my background in UX/UI design, which I integrate into every project.
+
+Hot takes aside, I'm Caleb Theil, a passionate full-stack engineer with 4 years of experience and a degree in digital design. 
+<br/>
+I'm a self-taught problem solver who began this journey by **spotting inefficiencies** and **refusing to accept the status quo.** My unique blend of technical expertise and design sensibility allows me to elevate user interfaces and optimize backend systems, making complex challenges feel like second nature.
 
 ## 🔧 Technologies I Like:
   
@@ -19,8 +22,9 @@ I'm a versatile freelance full-stack engineer with 4 years of experience and a d
 
 ## 🏆 Top Projects:
 
-### [Echo]()
+### [Echo](https://github.com/ctheil/echo)
 Developed an AI interaction platform using React, TypeScript, and Tailwind, leveraging the OpenAI API. Hosted on an EC2 instance with Nginx and Certbot for SSL, Echo improves AI user interactions and provides tools for effective prompt engineering.
 
-### [Tinder-like App for Movies/TV Shows]()
-A social app designed to help users find what to watch next, built with Golang, Postgres, Redis, and React. The application supports solo and multi-user sessions with features like custom watchlists, streaming service integration, and real-time socket-based API and client communication.
+### [Tinder-like App for Movies/TV Shows](https://github.com/ctheil/pmdb-api)
+#### More coming soon! Checkout the [React Front End](https://github.com/ctheil/pmdb-client) or the [Go Back End](https://github.com/ctheil/pmdb-api)
+A social app designed to help users find what to watch next, built with Golang, Postgres, Redis, and React. The application will support solo and multi-user sessions with features like custom watchlists, streaming service integration, and real-time socket-based API and client communication.
