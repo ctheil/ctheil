@@ -8,13 +8,13 @@ I'm a self-taught problem solver who began this journey by **spotting inefficien
 
 ### Also 
 
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/0d9d6f9c-2734-45cb-a348-51d5621bb087"> I'm an avid Neovim user<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/9cd5d205-002b-492d-8f48-a146bdc261de"> I use arch, btw, sometimes...<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/16594670-0318-43a4-9712-0e8c9099627b"> I'm a lifelong learner<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/d26fcd28-d949-41ea-8443-dd988f01a4c8"> a hockey player<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/5dedef30-7053-4eb2-9910-334124c2d329"> a drummer<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/338b47cc-b910-406d-a217-b703f45fe7e5"> a smarthome-er<br/>
-<img height="25px" align="center" src="https://github.com/user-attachments/assets/cdb27712-75f6-4c5b-8ed7-477555de9759"> and, I try to be a good person<br/>
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/0d9d6f9c-2734-45cb-a348-51d5621bb087"> I'm an avid Neovim user, &nbsp;
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/9cd5d205-002b-492d-8f48-a146bdc261de"> I use arch, btw, sometimes...,  &nbsp;
+<img height="55px" align="center" src="https://github.com/user-attachments/assets/16594670-0318-43a4-9712-0e8c9099627b"> I'm a lifelong learner,  &nbsp;
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/d26fcd28-d949-41ea-8443-dd988f01a4c8"> a hockey player,  &nbsp;<br/>
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/5dedef30-7053-4eb2-9910-334124c2d329"> a drummer,  &nbsp;
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/338b47cc-b910-406d-a217-b703f45fe7e5"> a smarthome-er,  &nbsp;
+<img height="55px" align="center" src="https://github.com/user-attachments/assets/cdb27712-75f6-4c5b-8ed7-477555de9759"> and, I try to be a good person.  &nbsp;
 
 
 ## 🔧 Technologies I Like:
