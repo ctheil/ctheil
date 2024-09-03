@@ -1,9 +1,21 @@
-# If “Good Enough” Doesn’t Cut It for You, You’re in the Right Place.
-**🚀 Full-Stack Engineer | UX/UI Designer | Problem Solver**<br/>
+## If “Good Enough” Doesn’t Cut It for You, You’re in the Right Place.
+### 🚀 Full-Stack Developer | UX/UI Designer | Problem Solver
 
-Hot takes aside, I'm Caleb Theil, a passionate full-stack engineer with 4 years of experience and a degree in digital design. 
+Hot takes aside, I'm Caleb Theil, a passionate full-stack developer with 4 years of experience and a degree in digital design. 
 <br/>
 I'm a self-taught problem solver who began this journey by **spotting inefficiencies** and **refusing to accept the status quo.** My unique blend of technical expertise and design sensibility allows me to elevate user interfaces and optimize backend systems, making complex challenges feel like second nature.
+
+
+### Also 
+
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/0d9d6f9c-2734-45cb-a348-51d5621bb087"> I'm an avid Neovim user<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/9cd5d205-002b-492d-8f48-a146bdc261de"> I use arch, btw, sometimes...<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/16594670-0318-43a4-9712-0e8c9099627b"> I'm a lifelong learner<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/d26fcd28-d949-41ea-8443-dd988f01a4c8"> a hockey player<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/5dedef30-7053-4eb2-9910-334124c2d329"> a drummer<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/338b47cc-b910-406d-a217-b703f45fe7e5"> a smarthome-er<br/>
+<img height="25px" align="center" src="https://github.com/user-attachments/assets/cdb27712-75f6-4c5b-8ed7-477555de9759"> and, I try to be a good person<br/>
+
 
 ## 🔧 Technologies I Like:
   
@@ -22,10 +34,10 @@ I'm a self-taught problem solver who began this journey by **spotting inefficien
 
 ## 🏆 Top Projects:
 
-### [Echo](https://github.com/ctheil/echo)
-Developed an AI interaction platform using React, TypeScript, and Tailwind, leveraging the OpenAI API. Hosted on an EC2 instance with Nginx and Certbot for SSL, Echo improves AI user interactions and provides tools for effective prompt engineering.
-
 ### [PMDB](https://github.com/ctheil/pmdb-api)
 #### Tinder-like App for Movies/TV Shows
 **More coming soon!** Checkout the [React Front End](https://github.com/ctheil/pmdb-client) or the [Go Back End](https://github.com/ctheil/pmdb-api)<br/>
 A social app designed to help users find what to watch next, built with Golang, Postgres, Redis, and React. The application will support solo and multi-user sessions with features like custom watchlists, streaming service integration, and real-time socket-based API and client communication.
+
+### [Echo](https://github.com/ctheil/echo)
+Developed an AI interaction platform using React and leveraging the OpenAI API. Hosted on an EC2 instance with Nginx and Certbot for SSL, Echo improves AI user interactions and provides tools for effective prompt engineering.
