@@ -1,9 +1,9 @@
 ## If “Good Enough” Doesn’t Cut It for You, You’re in the Right Place.
-### 🚀 Full-Stack Developer | UX/UI Designer | Problem Solver
+### 🚀 [Full-Stack Developer | UX/UI Designer | Problem Solver](https://github.com/ctheil/resume)
 
 Hot takes aside, I'm Caleb Theil, a passionate full-stack developer with 4 years of experience and a degree in digital design. 
 <br/>
-I'm a self-taught problem solver who began this journey by **spotting inefficiencies** and **refusing to accept the status quo.** My unique blend of technical expertise and design sensibility allows me to elevate user interfaces and optimize backend systems, making complex challenges feel like second nature.
+I'm a self-taught problem solver who began this journey by **spotting inefficiencies** and **refusing to accept the status quo.** My unique blend of technical expertise and design sensibility allows me to elevate user interfaces and optimize backend systems, making complex challenges feel like second nature. Interested? [Read more](https://github.com/ctheil/resume)
 
 
 ### Also 
