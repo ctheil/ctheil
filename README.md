@@ -9,7 +9,7 @@ I'm a self-taught problem solver who began this journey by **spotting inefficien
 ### Also 
 
 <img height="40px" align="center" src="https://github.com/user-attachments/assets/0d9d6f9c-2734-45cb-a348-51d5621bb087"> I'm an avid Neovim user, &nbsp;
-<img height="40px" align="center" src="https://github.com/user-attachments/assets/9cd5d205-002b-492d-8f48-a146bdc261de"> I use arch, btw, sometimes...,  &nbsp;
+<img height="40px" align="center" src="https://github.com/user-attachments/assets/14a1ac47-d62e-406f-aa88-6e34fbb4bf81"> Linux enthusiast,  &nbsp;
 <img height="55px" align="center" src="https://github.com/user-attachments/assets/16594670-0318-43a4-9712-0e8c9099627b"> I'm a lifelong learner,  &nbsp;
 <img height="40px" align="center" src="https://github.com/user-attachments/assets/d26fcd28-d949-41ea-8443-dd988f01a4c8"> a hockey player,  &nbsp;<br/>
 <img height="40px" align="center" src="https://github.com/user-attachments/assets/5dedef30-7053-4eb2-9910-334124c2d329"> a drummer,  &nbsp;
@@ -27,7 +27,6 @@ I'm a self-taught problem solver who began this journey by **spotting inefficien
 <img src="https://github.com/user-attachments/assets/27aecd64-ae60-4c5e-b084-09de6c3caf43" height="50px">
 <img src="https://github.com/user-attachments/assets/edb2ed8f-8070-4152-9cb6-783f9afab5b7" height="50px">
 <img src="https://github.com/user-attachments/assets/2b48724d-d0fd-4c5a-8897-010dee3f645e" height="50px">
-<img src="https://github.com/user-attachments/assets/14a1ac47-d62e-406f-aa88-6e34fbb4bf81" height="50px">
 <img src="https://github.com/user-attachments/assets/714f9ded-57d5-40fe-a02a-457021b8f47a" height="50px">
 <img src="https://github.com/user-attachments/assets/8070e3c2-9c49-43b5-8f76-ef6cd57ec0bd" height="50px">
 
